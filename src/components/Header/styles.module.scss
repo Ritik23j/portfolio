@@ -4,7 +4,8 @@
         color: #c8dfd1;
         font-weight: 600;
         font-size: 0.9rem;
-
+        padding-left: 2px;
+        
         @media (min-width: 1500px) {
             font-size: 0.95rem;
         }
@@ -16,6 +17,6 @@
         font-weight: 700;
         letter-spacing: -0.5px;
         line-height: 4.75rem;
-        margin-top: 0.25rem;
+        margin-top: 0.65rem;
     }
 }

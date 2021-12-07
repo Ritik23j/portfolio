@@ -9,10 +9,9 @@ module.exports = {
         browser: true,
     },
     globals: {},
-    extends: ['prettier'],
-    plugins: ['react', 'react-hooks', 'prettier'],
+    extends: [],
+    plugins: ['react', 'react-hooks'],
     rules: {
-        'prettier/prettier': 2,
         semi: 2,
         'comma-dangle': 0,
         'react/jsx-uses-vars': 1,

@@ -9,7 +9,7 @@ const SocialMediaIcons = React.memo(() => {
     return (
         <div className={classes.iconsContainer}>
             <a
-                href="https://github.com/DemonDaddy22/"
+                href="https://github.com/Ritik23j/"
                 target="_blank"
                 rel="noreferrer"
                 className={classes.icon}
@@ -17,7 +17,7 @@ const SocialMediaIcons = React.memo(() => {
                 <GitHub />
             </a>
             <a
-                href="https://www.linkedin.com/in/rohangupta22/"
+                href="https://www.linkedin.com/in/ritik-jain23/"
                 target="_blank"
                 rel="noreferrer"
                 className={classes.icon}
@@ -25,7 +25,7 @@ const SocialMediaIcons = React.memo(() => {
                 <LinkedIn />
             </a>
             <a
-                href="https://twitter.com/Showstopper_RG"
+                href="https://twitter.com/ritik23j"
                 target="_blank"
                 rel="noreferrer"
                 className={classes.icon}
@@ -33,7 +33,7 @@ const SocialMediaIcons = React.memo(() => {
                 <Twitter />
             </a>
             <a
-                href="https://www.instagram.com/shadesofdemon/"
+                href="https://www.instagram.com/ritik.jain23/"
                 target="_blank"
                 rel="noreferrer"
                 className={classes.icon}
