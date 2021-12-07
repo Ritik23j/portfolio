@@ -1,7 +1,7 @@
 {
     "name": "rohan-gupta",
     "version": "0.1.0",
-    "homepage": "https://rohangupta.xyz",
+    "homepage": "https://Ritik23j.github.io/portfolio/",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.14.1",
@@ -27,7 +27,7 @@
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -b master -d build"
     },
     "eslintConfig": {
         "extends": [
